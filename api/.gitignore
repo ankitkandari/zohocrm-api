@@ -14,3 +14,4 @@ yarn-error.log
 /.idea
 /.vscode
 /storage/zoho.txt
+/storage/resources/*
