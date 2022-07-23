@@ -1,0 +1,26 @@
+.navbar {
+    background: white;
+    box-shadow: 1px 4px 8px -6px #686868;
+}
+
+.nav-link {
+    color: #226db4 !important;
+    font-weight: 600 !important;
+}
+
+.table {
+    text-align: center;
+    border-radius: 14px;
+    overflow: hidden;
+}
+
+thead {
+    background: #226db4;
+    color: white;
+    text-align: center;
+}
+
+.navbar-brand img {
+    height: 45px;
+    object-fit: cover;
+}
